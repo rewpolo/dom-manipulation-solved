@@ -38,3 +38,8 @@
  */
 
 // Your code goes here...
+const cardsContainer = document.querySelectorAll('.card');
+
+function containerCards () {
+   
+}
